@@ -51,15 +51,15 @@ bot_description: "enter description"
    ```
    python app.py
    ```
-   ![alt text](image.png)
+   ![alt text](images/image.png)
 
 ## Start the Emulator and connect your bot
 
 1. Start the Bot Framework Emulator.
 2. Select Open Bot on the Emulator's Welcome tab.
 3. Enter your bot's URL, which is your local host and port, with /api/messages added to the path. The address is usually: `http://localhost:3978/api/messages`
-   ![alt text](image-1.png)
+   ![alt text](images/image-1.png)
 4. Then select Connect.
 
 Send a message to your bot, and the bot will respond back.
-![alt text](image-2.png)
+![alt text](images/image-2.png)
